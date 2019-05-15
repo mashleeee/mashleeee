@@ -4,9 +4,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Ms Wood's Site</title>
+    <title>Ashlee's Site</title>
     <meta name="description" content="Your Webpage Description">
-    <meta name="author" content="Joy Wood">
+    <meta name="author" content="Ashlee">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,8 +51,8 @@
 
 <div class="row-fluid">
   <div class="span12">
-    <p> Welcome to my webpage. My name is Joy Wood and I'm a Computer Science teacher at  <a class="brand" href="https://www.dsstpublicschools.org/college-view-high-school">DSST College View High School</a>.</p>
-    <p> See me if you want to talk about rock climbing, Game of Thrones season 8, Will Smith, or just general life stuff. </p>
+    <p> Welcome to my webpage. My name is Ashlee and I'm a student at  <a class="brand" href="https://www.dsstpublicschools.org/college-view-high-school">DSST College View High School</a>.</p>
+    <p> See me if you want to talk about volleyball, scary things, or just general life stuff. </p>
       <img src="http://www.steamgirlsvt.com/uploads/9/1/8/5/91858342/published/img-4744-l.jpeg?1526583168">
 <div class="page-header">
   <font color="orange"> <h2>My Projects  </font></h2>
